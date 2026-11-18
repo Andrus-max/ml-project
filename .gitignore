@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 optuna_ames.db
+data/
+modele_L4*/
+rezultate_L4_rapid/
