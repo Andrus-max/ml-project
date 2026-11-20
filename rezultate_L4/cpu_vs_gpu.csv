@@ -1,0 +1,4 @@
+experiment,timp_cpu_s,timp_cuda_s,de_cate_ori_mai_rapid_pe_GPU
+02_conv2_pool,9.2,3.1,3.0
+04_conv4_baza,12.0,3.6,3.3
+12_bn_dropout05,17.7,4.3,4.1

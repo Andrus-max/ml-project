@@ -1,0 +1,101 @@
+2026-11-20 13:26:42  === 01_fara_conv ===
+2026-11-20 13:26:48    fold 1: macro-F1 0.499 | cea mai buna epoca 4 | 9 epoci rulate | 6 s
+2026-11-20 13:26:51    fold 2: macro-F1 0.427 | cea mai buna epoca 1 | 6 epoci rulate | 3 s
+2026-11-20 13:26:56    fold 3: macro-F1 0.472 | cea mai buna epoca 4 | 9 epoci rulate | 5 s
+2026-11-20 13:27:00    fold 4: macro-F1 0.468 | cea mai buna epoca 3 | 8 epoci rulate | 4 s
+2026-11-20 13:27:04    fold 5: macro-F1 0.483 | cea mai buna epoca 3 | 8 epoci rulate | 4 s
+2026-11-20 13:27:04    01_fara_conv: macro-F1 0.470 +/- 0.024
+2026-11-20 13:27:04  === 02_conv2_pool ===
+2026-11-20 13:27:10    fold 1: macro-F1 0.643 | cea mai buna epoca 5 | 10 epoci rulate | 7 s
+2026-11-20 13:27:16    fold 2: macro-F1 0.623 | cea mai buna epoca 4 | 9 epoci rulate | 5 s
+2026-11-20 13:27:22    fold 3: macro-F1 0.633 | cea mai buna epoca 6 | 11 epoci rulate | 6 s
+2026-11-20 13:27:28    fold 4: macro-F1 0.626 | cea mai buna epoca 6 | 11 epoci rulate | 6 s
+2026-11-20 13:27:36    fold 5: macro-F1 0.681 | cea mai buna epoca 8 | 13 epoci rulate | 8 s
+2026-11-20 13:27:36    02_conv2_pool: macro-F1 0.641 +/- 0.021
+2026-11-20 13:27:37  === 03_conv2_fara_pool ===
+2026-11-20 13:27:50    fold 1: macro-F1 0.593 | cea mai buna epoca 4 | 9 epoci rulate | 13 s
+2026-11-20 13:28:00    fold 2: macro-F1 0.572 | cea mai buna epoca 3 | 8 epoci rulate | 10 s
+2026-11-20 13:28:10    fold 3: macro-F1 0.585 | cea mai buna epoca 3 | 8 epoci rulate | 10 s
+2026-11-20 13:28:20    fold 4: macro-F1 0.619 | cea mai buna epoca 3 | 8 epoci rulate | 10 s
+2026-11-20 13:28:31    fold 5: macro-F1 0.618 | cea mai buna epoca 4 | 9 epoci rulate | 11 s
+2026-11-20 13:28:31    03_conv2_fara_pool: macro-F1 0.597 +/- 0.019
+2026-11-20 13:28:31  === 04_conv4_baza ===
+2026-11-20 13:28:45    fold 1: macro-F1 0.718 | cea mai buna epoca 15 | 20 epoci rulate | 14 s
+2026-11-20 13:28:56    fold 2: macro-F1 0.693 | cea mai buna epoca 12 | 17 epoci rulate | 11 s
+2026-11-20 13:29:07    fold 3: macro-F1 0.698 | cea mai buna epoca 12 | 17 epoci rulate | 11 s
+2026-11-20 13:29:15    fold 4: macro-F1 0.666 | cea mai buna epoca 8 | 13 epoci rulate | 8 s
+2026-11-20 13:29:24    fold 5: macro-F1 0.707 | cea mai buna epoca 10 | 15 epoci rulate | 9 s
+2026-11-20 13:29:24    04_conv4_baza: macro-F1 0.696 +/- 0.017
+2026-11-20 13:29:24  === 05_conv6 ===
+2026-11-20 13:29:37    fold 1: macro-F1 0.732 | cea mai buna epoca 16 | 21 epoci rulate | 13 s
+2026-11-20 13:29:50    fold 2: macro-F1 0.689 | cea mai buna epoca 15 | 20 epoci rulate | 13 s
+2026-11-20 13:30:02    fold 3: macro-F1 0.700 | cea mai buna epoca 14 | 19 epoci rulate | 12 s
+2026-11-20 13:30:12    fold 4: macro-F1 0.722 | cea mai buna epoca 11 | 16 epoci rulate | 10 s
+2026-11-20 13:30:24    fold 5: macro-F1 0.712 | cea mai buna epoca 14 | 19 epoci rulate | 12 s
+2026-11-20 13:30:24    05_conv6: macro-F1 0.711 +/- 0.015
+2026-11-20 13:30:24  === 06_3_ascunse ===
+2026-11-20 13:30:36    fold 1: macro-F1 0.687 | cea mai buna epoca 14 | 19 epoci rulate | 11 s
+2026-11-20 13:30:47    fold 2: macro-F1 0.677 | cea mai buna epoca 14 | 19 epoci rulate | 11 s
+2026-11-20 13:30:57    fold 3: macro-F1 0.684 | cea mai buna epoca 11 | 16 epoci rulate | 10 s
+2026-11-20 13:31:07    fold 4: macro-F1 0.694 | cea mai buna epoca 13 | 18 epoci rulate | 10 s
+2026-11-20 13:31:19    fold 5: macro-F1 0.721 | cea mai buna epoca 15 | 20 epoci rulate | 12 s
+2026-11-20 13:31:19    06_3_ascunse: macro-F1 0.693 +/- 0.015
+2026-11-20 13:31:19  === 07_tanh ===
+2026-11-20 13:31:26    fold 1: macro-F1 0.707 | cea mai buna epoca 8 | 13 epoci rulate | 8 s
+2026-11-20 13:31:35    fold 2: macro-F1 0.710 | cea mai buna epoca 11 | 16 epoci rulate | 9 s
+2026-11-20 13:31:42    fold 3: macro-F1 0.678 | cea mai buna epoca 7 | 12 epoci rulate | 7 s
+2026-11-20 13:31:49    fold 4: macro-F1 0.672 | cea mai buna epoca 7 | 12 epoci rulate | 7 s
+2026-11-20 13:31:56    fold 5: macro-F1 0.694 | cea mai buna epoca 8 | 13 epoci rulate | 7 s
+2026-11-20 13:31:56    07_tanh: macro-F1 0.692 +/- 0.015
+2026-11-20 13:31:56  === 08_leaky_lr_mic ===
+2026-11-20 13:32:19    fold 1: macro-F1 0.652 | cea mai buna epoca 34 | 39 epoci rulate | 23 s
+2026-11-20 13:32:44    fold 2: macro-F1 0.647 | cea mai buna epoca 40 | 40 epoci rulate | 24 s
+2026-11-20 13:33:09    fold 3: macro-F1 0.672 | cea mai buna epoca 40 | 40 epoci rulate | 26 s
+2026-11-20 13:33:29    fold 4: macro-F1 0.643 | cea mai buna epoca 26 | 31 epoci rulate | 19 s
+2026-11-20 13:33:51    fold 5: macro-F1 0.686 | cea mai buna epoca 29 | 34 epoci rulate | 22 s
+2026-11-20 13:33:51    08_leaky_lr_mic: macro-F1 0.660 +/- 0.016
+2026-11-20 13:33:51  === 09_lr_mare ===
+2026-11-20 13:34:00    fold 1: macro-F1 0.569 | cea mai buna epoca 10 | 15 epoci rulate | 9 s
+2026-11-20 13:34:07    fold 2: macro-F1 0.546 | cea mai buna epoca 7 | 12 epoci rulate | 7 s
+2026-11-20 13:34:16    fold 3: macro-F1 0.582 | cea mai buna epoca 9 | 14 epoci rulate | 9 s
+2026-11-20 13:34:30    fold 4: macro-F1 0.079 | cea mai buna epoca 14 | 19 epoci rulate | 13 s
+2026-11-20 13:34:38    fold 5: macro-F1 0.534 | cea mai buna epoca 7 | 12 epoci rulate | 8 s
+2026-11-20 13:34:38    09_lr_mare: macro-F1 0.462 +/- 0.192
+2026-11-20 13:34:38  === 10_l2 ===
+2026-11-20 13:34:51    fold 1: macro-F1 0.713 | cea mai buna epoca 16 | 21 epoci rulate | 13 s
+2026-11-20 13:35:03    fold 2: macro-F1 0.709 | cea mai buna epoca 15 | 20 epoci rulate | 12 s
+2026-11-20 13:35:12    fold 3: macro-F1 0.676 | cea mai buna epoca 9 | 14 epoci rulate | 8 s
+2026-11-20 13:35:23    fold 4: macro-F1 0.681 | cea mai buna epoca 12 | 17 epoci rulate | 11 s
+2026-11-20 13:35:35    fold 5: macro-F1 0.698 | cea mai buna epoca 15 | 20 epoci rulate | 12 s
+2026-11-20 13:35:35    10_l2: macro-F1 0.696 +/- 0.015
+2026-11-20 13:35:35  === 11_l1 ===
+2026-11-20 13:35:48    fold 1: macro-F1 0.706 | cea mai buna epoca 15 | 20 epoci rulate | 13 s
+2026-11-20 13:36:01    fold 2: macro-F1 0.692 | cea mai buna epoca 15 | 20 epoci rulate | 12 s
+2026-11-20 13:36:14    fold 3: macro-F1 0.706 | cea mai buna epoca 17 | 22 epoci rulate | 13 s
+2026-11-20 13:36:26    fold 4: macro-F1 0.698 | cea mai buna epoca 15 | 20 epoci rulate | 12 s
+2026-11-20 13:36:38    fold 5: macro-F1 0.706 | cea mai buna epoca 15 | 20 epoci rulate | 13 s
+2026-11-20 13:36:38    11_l1: macro-F1 0.702 +/- 0.006
+2026-11-20 13:36:38  === 12_bn_dropout05 ===
+2026-11-20 13:36:47    fold 1: macro-F1 0.744 | cea mai buna epoca 8 | 13 epoci rulate | 9 s
+2026-11-20 13:36:56    fold 2: macro-F1 0.704 | cea mai buna epoca 8 | 13 epoci rulate | 9 s
+2026-11-20 13:37:01    fold 3: macro-F1 0.673 | cea mai buna epoca 3 | 8 epoci rulate | 5 s
+2026-11-20 13:37:11    fold 4: macro-F1 0.716 | cea mai buna epoca 8 | 13 epoci rulate | 10 s
+2026-11-20 13:37:20    fold 5: macro-F1 0.719 | cea mai buna epoca 7 | 12 epoci rulate | 9 s
+2026-11-20 13:37:20    12_bn_dropout05: macro-F1 0.711 +/- 0.023
+2026-11-20 13:37:20  === 13_dropout025_augm ===
+2026-11-20 13:38:41    fold 1: macro-F1 0.760 | cea mai buna epoca 28 | 33 epoci rulate | 81 s
+2026-11-20 13:39:49    fold 2: macro-F1 0.712 | cea mai buna epoca 24 | 29 epoci rulate | 68 s
+2026-11-20 13:40:49    fold 3: macro-F1 0.726 | cea mai buna epoca 20 | 25 epoci rulate | 60 s
+2026-11-20 13:41:48    fold 4: macro-F1 0.734 | cea mai buna epoca 19 | 24 epoci rulate | 59 s
+2026-11-20 13:43:03    fold 5: macro-F1 0.747 | cea mai buna epoca 23 | 28 epoci rulate | 75 s
+2026-11-20 13:43:03    13_dropout025_augm: macro-F1 0.736 +/- 0.017
+2026-11-20 13:43:03  === 14_conv_gru ===
+2026-11-20 13:43:13    fold 1: macro-F1 0.682 | cea mai buna epoca 11 | 16 epoci rulate | 10 s
+2026-11-20 13:43:22    fold 2: macro-F1 0.667 | cea mai buna epoca 12 | 17 epoci rulate | 9 s
+2026-11-20 13:43:28    fold 3: macro-F1 0.634 | cea mai buna epoca 8 | 13 epoci rulate | 7 s
+2026-11-20 13:43:37    fold 4: macro-F1 0.645 | cea mai buna epoca 10 | 15 epoci rulate | 8 s
+2026-11-20 13:43:45    fold 5: macro-F1 0.662 | cea mai buna epoca 11 | 16 epoci rulate | 9 s
+2026-11-20 13:43:45    14_conv_gru: macro-F1 0.658 +/- 0.017
+2026-11-20 13:44:11  CPU vs GPU 02_conv2_pool: {'experiment': '02_conv2_pool', 'timp_cpu_s': 9.2, 'timp_cuda_s': 3.1, 'de_cate_ori_mai_rapid_pe_GPU': 3.0}
+2026-11-20 13:44:27  CPU vs GPU 04_conv4_baza: {'experiment': '04_conv4_baza', 'timp_cpu_s': 12.0, 'timp_cuda_s': 3.6, 'de_cate_ori_mai_rapid_pe_GPU': 3.3}
+2026-11-20 13:44:49  CPU vs GPU 12_bn_dropout05: {'experiment': '12_bn_dropout05', 'timp_cpu_s': 17.7, 'timp_cuda_s': 4.3, 'de_cate_ori_mai_rapid_pe_GPU': 4.1}
